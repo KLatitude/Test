@@ -47,7 +47,7 @@ ___
 <!-- Images -->
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
-![Background Picture](./first.jpg)
+![Background Picture](./first.JPG)
 
 <!-- Github Markdown -->
 
